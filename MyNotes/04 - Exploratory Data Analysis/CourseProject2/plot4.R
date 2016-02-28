@@ -1,3 +1,6 @@
+# 4. Across the United States, how have emissions from coal combustion-related
+# sources changed from 1999–2008?
+
 library(RDS)
 NEI <- readRDS("exdata-data-NEI_data/summarySCC_PM25.rds")
 SCC <- readRDS("exdata-data-NEI_data/Source_Classification_Code.rds")

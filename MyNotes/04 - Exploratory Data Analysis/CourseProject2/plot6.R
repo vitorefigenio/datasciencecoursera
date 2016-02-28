@@ -1,3 +1,7 @@
+# 6. Compare emissions from motor vehicle sources in Baltimore City with emissions from motor
+# vehicle sources in Los Angeles County, California (𝚏𝚒𝚙𝚜 == "𝟶𝟼𝟶𝟹𝟽"). Which city has seen
+# greater changes over time in motor vehicle emissions?
+
 library(RDS)
 NEI <- readRDS("exdata-data-NEI_data/summarySCC_PM25.rds")
 SCC <- readRDS("exdata-data-NEI_data/Source_Classification_Code.rds")
